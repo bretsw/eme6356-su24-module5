@@ -240,22 +240,6 @@ include_graphics("img/5-ex2-7.png")
 
 ---
 
-# `r fa("fas fa-dice-two", fill = "#fff")` Uncertainty
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/5-ex2-8.png")
-```
-
----
-
-# `r fa("fas fa-dice-two", fill = "#fff")` Uncertainty
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/5-ex2-9.png")
-```
-
----
-
 class: inverse, center, middle
 
 # `r fa("fas fa-dice-three", fill = "#fff")` <br><br> Measure \#3 <br><br> `r fa("fas fa-calendar", fill = "#fff")` Time
@@ -264,7 +248,7 @@ class: inverse, center, middle
 
 # `r fa("fas fa-dice-three", fill = "#fff")` Time
 
-```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
 include_graphics("img/5-ex3-1.png")
 ```
 
@@ -282,14 +266,6 @@ include_graphics("img/5-ex3-2.png")
 
 ```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
 include_graphics("img/5-ex3-3.png")
-```
-
----
-
-# `r fa("fas fa-dice-three", fill = "#fff")` Time
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/5-ex3-4.png")
 ```
 
 ---
@@ -316,22 +292,6 @@ include_graphics("img/5-ex4-2.png")
 
 ---
 
-# `r fa("fas fa-dice-four", fill = "#fff")` Networks
-
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
-include_graphics("img/5-ex4-3.png")
-```
-
----
-
-# `r fa("fas fa-dice-four", fill = "#fff")` Networks
-
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
-include_graphics("img/5-ex4-4.png")
-```
-
----
-
 class: inverse, center, middle
 
 # `r fa("fas fa-dice-five", fill = "#fff")` <br><br> Measure \#5 <br><br> `r fa("fas fa-comments", fill = "#fff")` Language
@@ -340,7 +300,7 @@ class: inverse, center, middle
 
 # `r fa("fas fa-dice-five", fill = "#fff")` Language
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "540px", echo = FALSE, fig.align = "center"}
 include_graphics("img/5-ex5-1.png")
 ```
 
@@ -348,7 +308,7 @@ include_graphics("img/5-ex5-1.png")
 
 # `r fa("fas fa-dice-five", fill = "#fff")` Language
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
 include_graphics("img/5-ex5-2.png")
 ```
 
@@ -356,35 +316,9 @@ include_graphics("img/5-ex5-2.png")
 
 # `r fa("fas fa-dice-five", fill = "#fff")` Language
 
-```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
 include_graphics("img/5-ex5-3.png")
 ```
-
----
-
-# `r fa("fas fa-dice-five", fill = "#fff")` Language
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/5-ex5-4.png")
-```
-
----
-
-# `r fa("fas fa-dice-five", fill = "#fff")` Language
-
-```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
-include_graphics("img/5-ex5-5.png")
-```
-
----
-
-# `r fa("fas fa-dice-five", fill = "#fff")` Language
-
-```{r, out.width = "640px", echo = FALSE, fig.align = "center"}
-include_graphics("img/5-ex5-6.png")
-```
-
-Linguistic Inquiry & Word Count ([LIWC](https://www.liwc.app/)) lanuage measures
 
 ---
 
